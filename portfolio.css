@@ -1,0 +1,9 @@
+.header {
+    padding-top: 10%;
+}
+.header h1 {
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    line-height: 5px;
+}
